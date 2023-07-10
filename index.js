@@ -3,7 +3,7 @@ const jokeEl = document.getElementById("joke");
 
 const apiKey = "buFMXlbdGm4jRC0Ib53+yQ==jXoms8AybmtuoZ0I";
 const options = {
-    methood: "Get",
+    method: "Get",
     headers:{
         "X-Api-Key": apiKey,
 },
